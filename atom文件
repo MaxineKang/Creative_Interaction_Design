@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My Wab Page</title>
+  </head>
+  <body>
+      <h1>My First website</h1>
+      <h2>yes</h2>
+      <h3>it</h3>
+      <h4>is</h4>
+      <h5>starting</h5>
+      <h6>no</h6>
+      <p>mistake</p><br>
+      <p>yes it is</p>
+      <b>I am perfect!</b>
+      <i>I like myself</i>
+      <u>underline</u>
+      <em>I am perfect!</em>
+      <strong>I like myself</strong>
+      <sub>have this is changed?</sub>
+      <sup>have this is changed?</sup>
+      <img src="http://by.cuc.edu.cn/_upload/site/00/05/5/logo.png"><img>
+      <a href="http://by.cuc.edu.cn/">This is the link to CUC's website</a>
+  </body>
+</html>
